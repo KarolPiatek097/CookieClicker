@@ -1,0 +1,20 @@
+C:\Users\KaPi\Desktop\Linia produkcyjna\Linia produkcyjna\bin\Debug\csfml-audio-2.dll
+C:\Users\KaPi\Desktop\Linia produkcyjna\Linia produkcyjna\bin\Debug\csfml-graphics-2.dll
+C:\Users\KaPi\Desktop\Linia produkcyjna\Linia produkcyjna\bin\Debug\csfml-system-2.dll
+C:\Users\KaPi\Desktop\Linia produkcyjna\Linia produkcyjna\bin\Debug\csfml-window-2.dll
+C:\Users\KaPi\Desktop\Linia produkcyjna\Linia produkcyjna\bin\Debug\libsndfile-1.dll
+C:\Users\KaPi\Desktop\Linia produkcyjna\Linia produkcyjna\bin\Debug\openal32.dll
+C:\Users\KaPi\Desktop\Linia produkcyjna\Linia produkcyjna\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\KaPi\Desktop\Linia produkcyjna\Linia produkcyjna\bin\Debug\OpenTK.dll
+C:\Users\KaPi\Desktop\Linia produkcyjna\Linia produkcyjna\bin\Debug\Linia produkcyjna.exe.config
+C:\Users\KaPi\Desktop\Linia produkcyjna\Linia produkcyjna\bin\Debug\Linia produkcyjna.exe
+C:\Users\KaPi\Desktop\Linia produkcyjna\Linia produkcyjna\bin\Debug\Linia produkcyjna.pdb
+C:\Users\KaPi\Desktop\Linia produkcyjna\Linia produkcyjna\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\KaPi\Desktop\Linia produkcyjna\Linia produkcyjna\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\KaPi\Desktop\Linia produkcyjna\Linia produkcyjna\bin\Debug\sfmlnet-system-2.dll
+C:\Users\KaPi\Desktop\Linia produkcyjna\Linia produkcyjna\bin\Debug\sfmlnet-window-2.dll
+C:\Users\KaPi\Desktop\Linia produkcyjna\Linia produkcyjna\obj\Debug\Linia produkcyjna.csprojAssemblyReference.cache
+C:\Users\KaPi\Desktop\Linia produkcyjna\Linia produkcyjna\obj\Debug\Linia produkcyjna.csproj.CoreCompileInputs.cache
+C:\Users\KaPi\Desktop\Linia produkcyjna\Linia produkcyjna\obj\Debug\Linia produkcyjna.csproj.CopyComplete
+C:\Users\KaPi\Desktop\Linia produkcyjna\Linia produkcyjna\obj\Debug\Linia produkcyjna.exe
+C:\Users\KaPi\Desktop\Linia produkcyjna\Linia produkcyjna\obj\Debug\Linia produkcyjna.pdb
